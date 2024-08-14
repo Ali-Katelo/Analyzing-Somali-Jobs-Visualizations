@@ -8,6 +8,16 @@ This project aims to analyze the job market in Somalia by extracting and visuali
 
 The dataset for this analysis was obtained from url: https://somalijobs.com/jobs. It includes detailed information on job postings, including job titles, descriptions, required qualifications, and more.
 
+## Project Structure
+
+# The project is structured as follows:
+
+**Job Trends Analysis:** This section analyzes the trends in job postings on the Somalijobs website, including the most in-demand job categories, job types, and locations.
+**Skills Analysis:** This section identifies the most sought-after skills by employers in Somalia, based on the job requirements listed in job postings.
+**Sector Analysis:** This section provides an overview of the job opportunities in various sectors, such as technology, healthcare, and finance.
+**Company Analysis:** This section profiles the top companies hiring in Somalia, based on the number of job postings and company reviews.
+**Job Seeker Resources:** This section provides resources for job seekers, such as resume writing tips, interview preparation guides, and career development advice.
+
 ## Methodology
 
 1. **Data Collection**: The data was collected from various job posting websites and portals relevant to the Somali job market.
@@ -26,6 +36,17 @@ The dataset for this analysis was obtained from url: https://somalijobs.com/jobs
 The analysis provides a comprehensive overview of the Somali job market, highlighting key areas of opportunity and growth. Job seekers can use this information to better align their skills with market demands and improve their chances of securing employment.
 
 ---
+
+## Recommendations
+Based on the findings of this project, the following recommendations are made:
+
+1. Job seekers in Somalia should focus on developing skills that are in high demand by employers, such as programming, data analysis, and project management.
+   
+2. Employers in Somalia should invest in training and development programs to upskill their workforce and stay competitive in the job market.
+   
+3.The government of Somalia should support initiatives that promote job creation and skills development, such as entrepreneurship programs and vocational training centers.
+
+4. Somalijobs should continue to provide valuable resources for job seekers and employers, such as career advice, job search tools, and company profiles.
 
 ## How to Use This Repository
 
